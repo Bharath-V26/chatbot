@@ -1,2 +1,4 @@
-# chatbot
-DevOps Project: Git-Ops Pipeline for an AI Chatbot on Kubernetes
+# Chatbot DevOps Project
+
+End-to-end GitOps pipeline for a modern AI-powered chatbot, with Kubernetes, Argo CD, Istio, Argo Rollouts, and automated testing.
+
