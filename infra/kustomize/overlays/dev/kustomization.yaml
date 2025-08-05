@@ -1,0 +1,6 @@
+resources:
+  - ../../base
+
+# Here you can change settings for this environment
+# For example, you may want to add namePrefix, different replica count, or config
+
